@@ -363,6 +363,7 @@
 				DEVELOPMENT_TEAM = 7563MXF692;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Pushget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Pushget2;
 				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -375,7 +376,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ua.serhii.Pushget;
+				PRODUCT_BUNDLE_IDENTIFIER = ua.serhii.Pushget2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -394,6 +395,7 @@
 				DEVELOPMENT_TEAM = 7563MXF692;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Pushget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Pushget2;
 				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -406,7 +408,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ua.serhii.Pushget;
+				PRODUCT_BUNDLE_IDENTIFIER = ua.serhii.Pushget2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;

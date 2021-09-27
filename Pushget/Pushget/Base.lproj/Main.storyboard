@@ -34,7 +34,7 @@
                                     <color key="baseForegroundColor" systemColor="labelColor"/>
                                 </buttonConfiguration>
                                 <connections>
-                                    <action selector="get:" destination="BYZ-38-t0r" eventType="touchUpInside" id="QCl-aD-lKC"/>
+                                    <action selector="getFact:" destination="BYZ-38-t0r" eventType="touchUpInside" id="uBk-J0-HlE"/>
                                 </connections>
                             </button>
                         </subviews>
